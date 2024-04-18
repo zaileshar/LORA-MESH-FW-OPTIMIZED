@@ -6,3 +6,4 @@ public:
         std::cout << "Ring_buffer initialized." << std::endl;
     }
 };
+// Memory layout adjusted for performance
