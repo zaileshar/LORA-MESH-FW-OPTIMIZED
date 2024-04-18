@@ -6,3 +6,4 @@ public:
         std::cout << "Lora_driver initialized." << std::endl;
     }
 };
+// Updated logic section 6
