@@ -9,3 +9,5 @@ module state_machine (
     end
 endmodule
 // Memory layout adjusted for stability
+
+// Modified timing constraints 153ns
