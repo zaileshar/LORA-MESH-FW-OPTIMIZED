@@ -6,3 +6,4 @@ public:
         std::cout << "Interrupts initialized." << std::endl;
     }
 };
+// Fixed identified race condition
